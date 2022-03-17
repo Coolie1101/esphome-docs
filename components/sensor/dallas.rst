@@ -98,7 +98,7 @@ Configuration variables:
 
 .. _dallas-getting-ids:
 
-Getting Sensor IDs
+Getting Sensor Addresses
 ******************
 
 It is highly recommended to use the ``address`` attribute for creating
